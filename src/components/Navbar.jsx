@@ -1,3 +1,5 @@
+import "../styles/styles.css"
+
 import navlinks from "../utils/navlinks.json"
 import { useState, useEffect, useRef } from "react"
 import { useMediaQuery } from "react-responsive"
