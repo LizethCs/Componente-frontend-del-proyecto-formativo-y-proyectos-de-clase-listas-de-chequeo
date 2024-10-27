@@ -1,3 +1,5 @@
+import "../styles/reservar.css"
+
 import { Input } from "../components/Input"
 import { Link } from 'react-router-dom';
 
