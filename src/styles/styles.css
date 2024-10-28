@@ -151,22 +151,9 @@
       margin-left:20%;
     }
   
-    .caption{
-      font-size:0.9rem;
-      font-weight:600;
-      color:#39393b;
-      margin-bottom:2%;
-    }
-  
-    .description{
-      margin-bottom:2%;
-    }
-  
     .round{
       border-radius:10px;
     }
-  
-  
   
     .rsrv-button{
      background-color: #686bf1;
